@@ -15,4 +15,4 @@ This project is an embedded system application that illustrates how to build and
   The Fake API is available at https://iot-edge-sample-wv71.free.beeceptor.com/api/v1/data-records
 
 # External Services
-- Fake API was implemented on https://beeceptor.com/
+The Fake API was implemented on https://beeceptor.com/
